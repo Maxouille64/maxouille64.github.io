@@ -10,11 +10,10 @@ $section-headings-color: #6363B0 !default;
 }
 
 .page-header {
-  background-image: url(https://www.smogon.com/media/zracknel-beta.svg.m.1);
+  background-image: url();
   background-repeat: no-repeat;
   background-size: auto 70%;
   background-position: 10vh;
-  background-color: $section-headings-color;
   text-shadow: #222 0px 0px 5px;
 }
 
