@@ -37,16 +37,6 @@ $section-headings-color: #6363B0 !default;
   }
 }
 
-
-.project-image {
-  width:300px;
-  height:300px;
-  flex: 0 0 auto;
-  background-size:cover;
-  background-position:center;
-  border-radius:5px;
-}
-
 .project-body {
   flex:2 0;
   padding:0px 0px 20px 35px;
