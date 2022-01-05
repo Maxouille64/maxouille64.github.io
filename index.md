@@ -1,4 +1,4 @@
-Welcome to the Maxouille official website!
+Welcome to the Maxouille's official website!
 ## Projects
 
 <div class="project-blurb">
