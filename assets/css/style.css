@@ -10,6 +10,13 @@ $section-headings-color: #6363B0 !default;
 }
 
 .page-header {
+ color:#fff;
+ text-align:center;
+ background-color:#159957;
+ background-image:linear-gradient(120deg, #155799, #159957)
+}
+
+.page-header {
   background-image: url();
   background-repeat: no-repeat;
   background-size: auto 70%;
