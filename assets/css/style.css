@@ -16,9 +16,8 @@ $section-headings-color: #6363B0 !default;
   background-position: 10vh;
   text-shadow: #222 0px 0px 5px;
 }
-
 .page-header a {
-  color: #000; 
+ color:#fff
 }
 
 .project-tagline {
