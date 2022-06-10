@@ -14,7 +14,8 @@ Welcome to the Maxouille's official website!
         <p style="font-size:12pt;">Play with random team in any format on play.pokemonshowdown.com</p>
     </div>
 </div>
-
+<div class="chrome-blurb"></div><div class="firefox-blurb"></div>
+</div>
 <div class="project-blurb">
     <div class="project-body">
         <h3><a href="https://github.com/Maxouille64/multibound-py" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://raw.githubusercontent.com/Maxouille64/multibound-py/main/script-windows.py" target="_blank">multibound-py</a></h3>
