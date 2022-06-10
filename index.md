@@ -16,7 +16,6 @@ Welcome to the Maxouille's official website!
 </div>
 <a href="https://chrome.google.com/webstore/detail/pokemon-showdown-randomiz/jildenddhljffmiagdbmfmmbfpoooiba?hl=fr"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
 <a href="https://addons.mozilla.org/fr/firefox/addon/pokemon-showdown-randomizer/"><img src="https://addons.mozilla.org/static-frontend/c6276b7c0dc392e3ce8668f12e68b83c.svg"></a>
-</div>
 <div class="project-blurb">
     <div class="project-body">
         <h3><a href="https://github.com/Maxouille64/multibound-py" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://raw.githubusercontent.com/Maxouille64/multibound-py/main/script-windows.py" target="_blank">multibound-py</a></h3>
