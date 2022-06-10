@@ -14,7 +14,8 @@ Welcome to the Maxouille's official website!
         <p style="font-size:12pt;">Play with random team in any format on play.pokemonshowdown.com</p>
     </div>
 </div>
-<div class="chrome-blurb"></div><div class="firefox-blurb"></div>
+<a href="default.asp"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+<a href="default.asp"><img src="https://addons.mozilla.org/static-frontend/c6276b7c0dc392e3ce8668f12e68b83c.svg" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 </div>
 <div class="project-blurb">
     <div class="project-body">
