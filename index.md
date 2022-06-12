@@ -10,6 +10,7 @@ Welcome to the Maxouille's official website!
         color: #111;
       }
 </style>
+<button onclick="nuit()" class="button" id="dark">Toggle Dark Mode</button>
 <div class="project-blurb">
     <div class="project-body">
         <h3><a href="https://github.com/Maxouille64/pokepost" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://pokepost.cf/" target="_blank">PokePost</a></h3>
