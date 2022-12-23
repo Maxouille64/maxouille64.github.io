@@ -1,0 +1,52 @@
+---
+---
+
+$section-headings-color: #6363B0 !default;
+
+@import "{{ site.theme }}";
+
+.main-content {
+  max-width: 80rem; 
+}
+
+.page-header {
+  background-repeat: no-repeat;
+  text-shadow: #222 0px 0px 5px;
+}
+
+.page-header a {
+  color: #fff; 
+}
+
+.project-tagline {
+  color: #fff;
+  opacity: 1;
+}
+
+.project-blurb {
+  display:flex;
+  margin-top:15px;
+  align-items: center;
+}
+
+@media screen and (max-width: 700px) {
+  .project-blurb {
+    flex-direction: column; 
+  }
+}
+
+
+.project-image {
+  width:300px;
+  height:300px;
+  flex: 0 0 auto;
+  background-size:cover;
+  background-position:center;
+  border-radius:5px;
+}
+
+.project-body {
+  flex:2 0;
+  padding:0px 0px 20px 35px;
+  margin:auto;
+}

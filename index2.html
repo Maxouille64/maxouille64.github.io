@@ -1,0 +1,59 @@
+<title>Showdown FR</title>
+<h1># Showdown FR</h1>
+<style>
+      .dark-mode {
+        background: #23272a;
+        color: #eee;
+      }
+      .light-mode {
+        background-color: #eee;
+        color: #111;
+      }
+</style>
+<br>
+<div>
+    <p style="font-size:12pt;">Traduction française de Pokemon Showdown.</p>
+      <p><sub>download:</sub></p>
+    <a href="https://chrome.google.com/webstore/detail/showdown-fr/ifhjbhgekjcifbfmmggalmgcaaaeoekl?hl=fr" target="_blank"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+    <a target="_blank" href="https://addons.mozilla.org/fr/firefox/addon/showdown-fr/" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/EmbeddedImage.png"></a>
+</div>
+<p>
+      ou
+</p>
+<a href="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/Showdown%20FR.js" target="_blank"> Tampermonkey script </a>
+<h1># Version de Redemption</h1>
+<a href="https://spo.ink/showdown_fr">LIEN EXTENSION CHROME<a>
+<p style=" position: absolute; bottom: 0; left: 0; width: 100%; text-align: center;">
+      <button onclick="nuit()" class="button" id="dark">Toggle Dark Mode</button> * Maxouille#3847
+</p>
+
+<script type="text/javascript">
+  function nuit() {
+    var body = document.body;
+    var currentClass = body.className
+    var newClass = body.className == 'dark-mode' ? 'light-mode' : 'dark-mode'
+    body.className = newClass
+
+    document.cookie = 'theme=' + (newClass == 'light-mode' ? 'light' : 'dark') + "; expires=Fri, 31 Dec 9999 23:59:59 GMT;"
+    console.log('Cookies are now: ' + document.cookie)
+  }
+
+  function isDarkThemeSelected() {
+    return document.cookie.match(/theme=dark/i) != null
+  }
+
+  function setThemeFromCookie() {
+    var body = document.body;
+    var point = document.getElementById("myMenu");
+    body.className = isDarkThemeSelected() ? 'dark-mode' : 'light-mode';
+    point.style = isDarkThemeSelected() ? 'list-style-image: url(https://play.pokemonshowdown.com/sprites/itemicons/moon-ball.png)' : 'list-style-image: url(https://play.pokemonshowdown.com/sprites/itemicons/love-ball.png)';
+  }
+
+  (function() {
+    setThemeFromCookie()
+  })();
+  function logout() {
+    document.cookie = "username=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+    maxFresh();
+  }
+</script>
