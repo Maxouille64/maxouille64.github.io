@@ -1,9 +1,8 @@
 <title>Showdown FR</title>
 
 <h1>#Version web</h1>
-<button onclick="window.location.href='http://play.pokemonshowdown.fr/';">Jouer en ligne</button>
-<p style="font-size:12pt;">Attention, la version web est destinée uniquement aux utilisateurs jouant sur mobile donc via Google Chrome (Android) et Safari (IOS) 
-car elle n'est pas compatible avec les thèmes custom comme stylish ou autre extension/tooltip sans bidouille. C'est pourquoi si vous etes sur PC avec un navigateur prenant en charge les extensions 
+<a style = "font-size: 16pt;padding: 12px 20px;" class="button greenbutton" href="http://play.pokemonshowdown.fr/" target="_blank" >Jouer en ligne</a><p style="font-size:12pt;">Attention, la version web est destinée uniquement aux utilisateurs jouant sur mobile donc via Google Chrome (Android) et Safari (IOS)
+car elle n'est pas compatible avec les thèmes custom comme stylish ou autre extension/tooltip sans bidouille. C'est pourquoi si vous etes sur PC avec un navigateur prenant en charge les extensions
 je vous recommande vivement d'installer l'extension. A noter également que certains navigateurs comme Firefox et Kiwi Browser (Chromium) prennent en charge les extensions sur mobile. </p>
 
 <h1>#Extension Chromium/firefox</h1>
@@ -15,6 +14,38 @@ je vous recommande vivement d'installer l'extension. A noter également que cert
       .light-mode {
         background-color: #eee;
         color: #111;
+      }
+      .button {
+       color:#fff;
+       background:#3a4f88;
+       background:linear-gradient(to bottom,#4c63a3,#273661);
+       box-shadow:0 1px 2px transparent,inset 0 1px 1px transparent;
+       border:1px solid #222c4a;
+       padding:3px 10px;
+       text-shadow:#000 0 -1px 0;
+       border-radius:10px;
+       text-decoration:none;
+       display:inline-block;
+       font-family:Verdana,Helvetica,sans-serif;
+       font-size:11pt;
+       cursor:pointer
+      }
+      .button:hover {
+       background:linear-gradient(to bottom,#5a77c7,#2f447f)
+      }
+      .button:active {
+       background:linear-gradient(to bottom,#273661,#4c63a3);
+       box-shadow:0 1px 2px transparent,inset 0 1px -1px transparent
+      }
+      a.greenbutton {
+      	background: linear-gradient(to bottom, #4ca363, #276136);
+      }
+      a.greenbutton:hover {
+      	background: linear-gradient(to bottom, #5ac777, #2f7f44);
+      }
+      a.greenbutton:active {
+      	background: linear-gradient(to bottom, #276136, #4ca363);
+      	box-shadow: 0 1px 2px rgba(255, 255, 255, 30%), inset 0 1px -1px rgba(255, 255, 255, 50%);
       }
 </style>
 <br>
