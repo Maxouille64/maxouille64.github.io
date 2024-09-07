@@ -12,7 +12,7 @@ Welcome to the Maxouille's official website!
 </style>
 <div class="project-blurb">
     <div class="project-body">
-        <h3><a href="https://github.com/Maxouille64/pokepost" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="http://pokepost.tk/" target="_blank">PokePost</a></h3>
+        <h3><a href="https://github.com/Maxouille64/pokepost" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://zta.glitch.me/" target="_blank">PokePost</a></h3>
         <p style="font-size:12pt;">Backup your builder secretly and share your teams with other people!</p>
     </div>
 </div>
@@ -39,8 +39,6 @@ Welcome to the Maxouille's official website!
     <div class="project-body">
         <h3><a href="https://github.com/Maxouille64/PS-3d-Sprites" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://www.smogon.com/forums/threads/some-client-scripts-3d-models-rtb-instacalc-and-online-builder.3734330/" target="_blank">PS! 3ds sprites</a></h3>
         <p style="font-size:12pt;"> get Pokemon sprites in 3d </p>
-        <a href="https://chromewebstore.google.com/detail/ps-3d-sprites/aniekkoifibdmglhbmijfbmadgimohgn?hl=en" target="_blank"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
-<a target="_blank" href="/" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/EmbeddedImage.png"></a>
     </div>
 </div>
 
