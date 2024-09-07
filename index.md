@@ -28,6 +28,24 @@ Welcome to the Maxouille's official website!
 
 <div class="project-blurb">
     <div class="project-body">
+        <h3><a href="https://github.com/Maxouille64/InstaCalc" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://www.smogon.com/forums/threads/some-client-scripts-3d-models-rtb-instacalc-and-online-builder.3734330/" target="_blank">InstaCalc</a></h3>
+        <p style="font-size:12pt;">Play with random team in any format on play.pokemonshowdown.com</p>
+        <a href="https://chromewebstore.google.com/detail/instacalc/jgcdhecmbggngemoioepidjdbaplpeei?hl=en" target="_blank"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+<a target="_blank" href="/" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/EmbeddedImage.png"></a>
+    </div>
+</div>
+
+<div class="project-blurb">
+    <div class="project-body">
+        <h3><a href="https://github.com/Maxouille64/PS-3d-Sprites" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://www.smogon.com/forums/threads/some-client-scripts-3d-models-rtb-instacalc-and-online-builder.3734330/" target="_blank">PS! 3ds sprites</a></h3>
+        <p style="font-size:12pt;">Play with random team in any format on play.pokemonshowdown.com</p>
+        <a href="https://chromewebstore.google.com/detail/ps-3d-sprites/aniekkoifibdmglhbmijfbmadgimohgn?hl=en" target="_blank"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+<a target="_blank" href="/" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/EmbeddedImage.png"></a>
+    </div>
+</div>
+
+<div class="project-blurb">
+    <div class="project-body">
         <h3><a href="https://github.com/Maxouille64/multibound-py" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://github.com/Maxouille64/multibound-py/raw/main/multibound.exe" target="_blank">multibound-py</a></h3>
         <p style="font-size:12pt;">minimal multi-instance Starbound launcher written in python</p>
     </div>
