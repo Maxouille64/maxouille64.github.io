@@ -31,7 +31,7 @@ Welcome to the Maxouille's official website!
         <h3><a href="https://github.com/Maxouille64/InstaCalc" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://www.smogon.com/forums/threads/some-client-scripts-3d-models-rtb-instacalc-and-online-builder.3734330/" target="_blank">InstaCalc</a></h3>
         <p style="font-size:12pt;">Officia Automated Calculations</p>
         <a href="https://chromewebstore.google.com/detail/instacalc/jgcdhecmbggngemoioepidjdbaplpeei?hl=en" target="_blank"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
-<a target="_blank" href="/" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/EmbeddedImage.png"></a>
+<a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/insta-calc/" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/EmbeddedImage.png"></a>
     </div>
 </div>
 
