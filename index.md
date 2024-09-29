@@ -12,7 +12,7 @@ Welcome to the Maxouille's official website!
 </style>
 <div class="project-blurb">
     <div class="project-body">
-        <h3><a href="https://github.com/Maxouille64/pokepost" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://zta.glitch.me/" target="_blank">PokePost</a></h3>
+        <h3><a href="https://github.com/Maxouille64/pokepost" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="http://066644.xyz:5000/" target="_blank">PokePost</a></h3>
         <p style="font-size:12pt;">Backup your builder secretly and share your teams with other people!</p>
     </div>
 </div>
