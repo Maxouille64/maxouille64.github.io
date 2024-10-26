@@ -21,7 +21,7 @@ Welcome to the Maxouille's official website!
     <div class="project-body">
         <h3><a href="https://github.com/Maxouille64/RandomTeamBattle" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://www.smogon.com/forums/threads/showdown-randomizer-browser-extension.3684255/" target="_blank">PS! Randomizer</a></h3>
         <p style="font-size:12pt;">Play with random team in any format on play.pokemonshowdown.com !</p>
-        <a href="https://chromewebstore.google.com/detail/pokemon-showdown-randomiz/dgbjcmccheghgeihjfcmkpfdkdkppolh?hl=en-US" target="_blank"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+        <a href="https://chromewebstore.google.com/detail/pokemon-showdown-randomiz/dgbjcmccheghgeihjfcmkpfdkdkppolh?hl=en-US" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/refs/heads/main/image/chromestore.png"></a>
 <a target="_blank" href="https://addons.mozilla.org/fr/firefox/addon/pokemon-showdown-randomizer/" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/EmbeddedImage.png"></a>
     </div>
 </div>
@@ -30,7 +30,7 @@ Welcome to the Maxouille's official website!
     <div class="project-body">
         <h3><a href="https://github.com/Maxouille64/InstaCalc" target="_blank"><i aria-hidden="true" class="fab fa-github"></i></a> <a href="https://www.smogon.com/forums/threads/some-client-scripts-3d-models-rtb-instacalc-and-online-builder.3734330/" target="_blank">InstaCalc</a></h3>
         <p style="font-size:12pt;">Automated Calculations for the Official Pokemon showdown damages Calc!</p>
-        <a href="https://chromewebstore.google.com/detail/instacalc/jgcdhecmbggngemoioepidjdbaplpeei?hl=en" target="_blank"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+        <a href="https://chromewebstore.google.com/detail/instacalc/jgcdhecmbggngemoioepidjdbaplpeei?hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/refs/heads/main/image/chromestore.png"></a>
 <a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/insta-calc/" target="_blank"><img src="https://raw.githubusercontent.com/Maxouille64/maxouille64.github.io/main/EmbeddedImage.png"></a>
     </div>
 </div>
