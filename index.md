@@ -1,4 +1,4 @@
-Welcome to the Maxouille's official website!
+<p>Welcome to the Maxouille's official website!</p>
 ## Projects
 <style>
       .dark-mode {
